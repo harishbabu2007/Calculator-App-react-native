@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "calculator-app",
+    "name": "Calculator App",
     "slug": "calculator-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is a calculator app made by harish",
+    "githubUrl": "https://github.com/harishbabu2007/Calculator-App-react-native"
   }
 }
